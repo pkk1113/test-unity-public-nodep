@@ -1,0 +1,11 @@
+{
+  "name": "com.pkk1113.testpubnodep",
+  "version": "1.0.0",
+  "displayName": "Test Public No Dependency",
+  "unity": "2022.3",
+  "author": {
+    "name": "pkk1113",
+    "email": "pkk1113@naver.com",
+    "url": "https://github.com/pkk1113/test-unity-public-nodep"
+  }
+}
